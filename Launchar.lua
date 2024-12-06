@@ -12,7 +12,7 @@ local SupportedGames = {
 }
 
 if table.find(SupportedGames.A_Universal_Time,game.PlaceId) then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Difjkd/My-Wife-FlameW-/refs/heads/main/AUT?token=GHSAT0AAAAAACYXC5I4OZRBLYEIGBUICXOKZYTMMCQ"))();
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Difjkd/Yohoho/refs/heads/main/Ut.lua"))();
 elseif table.find(SupportedGames.Heaven_Stand,game.PlaceId) then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Difjkd/FlamesW/refs/heads/new/HS"))();
 elseif table.find(SupportedGames.Sakura_Stand,game.PlaceId) then
